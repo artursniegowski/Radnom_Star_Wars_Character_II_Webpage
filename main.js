@@ -1,3 +1,4 @@
+'use strict';
 /**
  * returnURLStarWarsAPI takes a baseUrl base on your selection
  * it returns a valid https://akabab.github.io/starwars-api/api URL
